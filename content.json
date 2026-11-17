@@ -1,0 +1,147 @@
+{
+  "brand": "AD 0RBITX | ADS & AI MARKETING",
+  "shortBrand": "AD 0RBITX",
+  "tagline": "ADS & AI MARKETING",
+  "email": "hello@example.com",
+  "whatsapp": "+91 00000 00000",
+  "whatsappLink": "910000000000",
+  "location": "Mumbai, India",
+  "socials": {
+    "facebook": "https://facebook.com/YOUR-FACEBOOK",
+    "instagram": "https://instagram.com/YOUR-INSTAGRAM",
+    "linkedin": "https://linkedin.com/in/YOUR-LINKEDIN",
+    "fiverr": "https://fiverr.com/YOUR-FIVERR",
+    "upwork": "https://upwork.com/freelancers/YOUR-UPWORK"
+  },
+  "seo": {
+    "title": "AD 0RBITX | Ads & AI Marketing",
+    "description": "AD 0RBITX helps businesses grow with performance marketing, Meta Ads, Google Ads, branding, social media and AI-powered marketing solutions.",
+    "keywords": "performance marketing, Meta Ads, Google Ads, AI marketing, social media marketing, Shopify, WordPress, Mumbai"
+  },
+  "hero": {
+    "eyebrow": "DIGITAL GROWTH PARTNER · MUMBAI, INDIA",
+    "title": "Make your brand<br><span class='gradient'>impossible to ignore.</span>",
+    "description": "AD 0RBITX helps ambitious businesses reach the right audience, build a stronger online presence and turn attention into measurable growth.",
+    "button": "Start a project"
+  },
+  "services": [
+    {
+      "title": "Performance Marketing",
+      "description": "Reach high-intent audiences and generate qualified enquiries through data-led campaigns and ongoing optimisation.",
+      "tags": "Meta Ads, Google Ads, Lead Generation, Analytics"
+    },
+    {
+      "title": "Branding & Social Marketing",
+      "description": "Build a recognisable brand, a consistent social presence and content that earns attention and trust.",
+      "tags": "Brand Identity, Social Media, Content, UGC Videos"
+    },
+    {
+      "title": "Shopify & WordPress Website Development",
+      "description": "Launch a professional, responsive website or online store designed around your customers and business goals.",
+      "tags": "Shopify, WordPress, Landing Pages, Conversion UX"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Ad setup",
+      "label": "STARTER · ONE-TIME",
+      "price": "₹5,000",
+      "description": "One platform, set up for a confident start.",
+      "features": "Campaign and account setup\nBasic targeting and tracking\nLaunch in approximately 3 days"
+    },
+    {
+      "name": "Full Funnel",
+      "label": "GROWTH · POPULAR",
+      "price": "₹12,000",
+      "description": "Two-platform campaign setup to attract and convert.",
+      "features": "Meta Ads + Google Ads (both platforms)\nCampaign build and optimisation\nApproximately 2 weeks to set up\nOptional UGC add-on: 3 × 30-sec videos at ₹3,000 each (₹9,000 total)"
+    },
+    {
+      "name": "Monthly retainer",
+      "label": "PARTNER · MONTHLY",
+      "price": "₹20,000",
+      "description": "Ongoing support for consistent improvement.",
+      "features": "Ongoing ads and optimisation\nCreative and reporting support\nScope tailored to your goals"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Local business campaign",
+      "category": "META ADS · LEAD GENERATION",
+      "client": "Add client or industry",
+      "goal": "Add campaign objective",
+      "work": "Add strategy, targeting and creative details",
+      "outcome": "Add verified leads, CPL and reporting period",
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Online store development",
+      "category": "SHOPIFY · E-COMMERCE",
+      "client": "Add client or industry",
+      "goal": "Add store or sales objective",
+      "work": "Add design, setup and integrations",
+      "outcome": "Add verified launch or conversion details",
+      "image": "",
+      "url": ""
+    },
+    {
+      "title": "Brand presence & content",
+      "category": "BRANDING · SOCIAL",
+      "client": "Add client or industry",
+      "goal": "Add brand or audience objective",
+      "work": "Add identity, content and channel details",
+      "outcome": "Add approved engagement or growth proof",
+      "image": "",
+      "url": ""
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "meta-ads-before-launch",
+      "title": "Meta Ads: What to check before launch",
+      "category": "PERFORMANCE MARKETING",
+      "date": "2026-11-17",
+      "excerpt": "A practical pre-launch checklist covering the offer, audience, creative, tracking and landing page.",
+      "metaTitle": "Meta Ads Launch Checklist | AD 0RBITX",
+      "metaDescription": "Prepare for a stronger Meta Ads launch with this practical checklist for offers, audiences, creative, landing pages and conversion tracking.",
+      "body": "Before you spend on ads, make sure the offer, audience, creative and destination are ready.\n\nStart with the offer. Be clear about who the product or service is for, the problem it solves and the action you want people to take. Then check audience fit, creative variations, landing-page clarity and conversion tracking.\n\nPractical checklist: confirm the landing page works on mobile, test the enquiry or purchase flow, install and verify tracking, prepare more than one creative angle and decide how often you will review results.",
+      "image": "assets/blog-meta-ads.svg"
+    },
+    {
+      "slug": "website-that-converts",
+      "title": "A website that turns visits into enquiries",
+      "category": "WEB DESIGN",
+      "date": "2026-11-17",
+      "excerpt": "Simple ways to make your website clearer, easier to navigate and more useful to potential customers.",
+      "metaTitle": "How to Build a Website That Converts | AD 0RBITX",
+      "metaDescription": "Learn how clear messaging, mobile-first design, proof and calls to action help turn website visitors into qualified enquiries.",
+      "body": "A useful website helps a visitor understand what you offer and what to do next.\n\nLead with a clear headline, explain your services in plain language, show relevant proof and make contact options easy to find. Keep navigation simple and design for mobile first.\n\nReview the full journey: where visitors land, what information they need before trusting you, and where they might get stuck. Small improvements to clarity and usability can make the experience more effective.",
+      "image": "assets/blog-website-converts.svg"
+    }
+  ],
+  "footerAbout": "AD 0RBITX | ADS & AI MARKETING helps businesses grow with performance marketing, branding, social media, AI-assisted marketing and website development.",
+  "metaResults": [
+    {
+      "category": "CASE STUDY 01 · LEAD GENERATION",
+      "title": "Lead generation campaign",
+      "description": "Add campaign objective, date range, ad spend, leads and cost per lead. Only publish verified figures.",
+      "image": "",
+      "metric": "Verified lead results"
+    },
+    {
+      "category": "CASE STUDY 02 · E-COMMERCE",
+      "title": "E-commerce growth campaign",
+      "description": "Add product category, audience strategy, purchases, revenue and ROAS with attribution context.",
+      "image": "",
+      "metric": "Verified sales results"
+    },
+    {
+      "category": "CASE STUDY 03 · CREATIVE TESTING",
+      "title": "Creative testing & optimisation",
+      "description": "Explain the creative angles, test learnings and verified outcomes.",
+      "image": "",
+      "metric": "Approved creative"
+    }
+  ]
+}
